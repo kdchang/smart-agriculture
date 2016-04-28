@@ -9,7 +9,6 @@ void setup() {
   Serial.begin(9600);
   Serial.println("Humidity and temp\n\n");
   Serial.println("XD\n\n");
-}
 
 void loop() {
   // Temp/Humanity
