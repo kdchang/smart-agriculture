@@ -1,2 +1,2 @@
-# smart_argricluture-
-Ardunio Smart Argricluture App
+# Smart Agriculture
+Ardunio Smart Agriculture App
