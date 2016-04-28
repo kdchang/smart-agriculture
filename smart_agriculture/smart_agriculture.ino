@@ -7,7 +7,7 @@ dht DHT;
   
 void setup(){   
 Serial.begin(9600);   
-Serial.println("Humidity and temperature\n\n");   
+Serial.println("Humidity and temp\n\n");   
 }
   
 void loop(){   
